@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="next">Next</string>
+    <string name="profile_page">Profile Page</string>
+    <string name="welcome_to_demo_page">Welcome to Demo Page</string>
+    <string name="back">Back</string>
+</resources>
